@@ -1,0 +1,14 @@
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\gestion_employe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\gestion_employe.AssemblyInfoInputs.cache
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\gestion_employe.AssemblyInfo.cs
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\gestion_employe.csproj.CoreCompileInputs.cache
+C:\Users\elmat\source\repos\gestion_employe\bin\Debug\net8.0\gestion_employe.exe
+C:\Users\elmat\source\repos\gestion_employe\bin\Debug\net8.0\gestion_employe.deps.json
+C:\Users\elmat\source\repos\gestion_employe\bin\Debug\net8.0\gestion_employe.runtimeconfig.json
+C:\Users\elmat\source\repos\gestion_employe\bin\Debug\net8.0\gestion_employe.dll
+C:\Users\elmat\source\repos\gestion_employe\bin\Debug\net8.0\gestion_employe.pdb
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\gestion_employe.dll
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\refint\gestion_employe.dll
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\gestion_employe.pdb
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\gestion_employe.genruntimeconfig.cache
+C:\Users\elmat\source\repos\gestion_employe\obj\Debug\net8.0\ref\gestion_employe.dll
