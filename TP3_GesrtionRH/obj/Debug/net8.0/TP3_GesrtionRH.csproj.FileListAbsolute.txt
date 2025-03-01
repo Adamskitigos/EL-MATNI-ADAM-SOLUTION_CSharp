@@ -1,0 +1,30 @@
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.AssemblyInfoInputs.cache
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.AssemblyInfo.cs
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.csproj.CoreCompileInputs.cache
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.sourcelink.json
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.exe
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.deps.json
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.runtimeconfig.json
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.dll
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.pdb
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.dll
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\refint\TP3_GesrtionRH.dll
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.pdb
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.genruntimeconfig.cache
+C:\Users\elmat\source\repos\TP3\TP3_GesrtionRH\obj\Debug\net8.0\ref\TP3_GesrtionRH.dll
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.exe
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.deps.json
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.runtimeconfig.json
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.dll
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\bin\Debug\net8.0\TP3_GesrtionRH.pdb
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.AssemblyInfoInputs.cache
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.AssemblyInfo.cs
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.csproj.CoreCompileInputs.cache
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.sourcelink.json
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.dll
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\refint\TP3_GesrtionRH.dll
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.pdb
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\TP3_GesrtionRH.genruntimeconfig.cache
+C:\Users\elmat\source\repos\El Matni Adam-Solution-CSharp\TP3_GesrtionRH\obj\Debug\net8.0\ref\TP3_GesrtionRH.dll
