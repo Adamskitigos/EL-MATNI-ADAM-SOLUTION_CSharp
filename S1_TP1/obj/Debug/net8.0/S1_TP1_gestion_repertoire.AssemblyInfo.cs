@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S1_TP1_gestion_repertoire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e6119e9cbd29888449b8008ab8d2a31862df529")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb1f819211cf5fe0f80b27eda81d92f89765a0b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("S1_TP1_gestion_repertoire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S1_TP1_gestion_repertoire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
